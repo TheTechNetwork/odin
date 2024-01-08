@@ -22,7 +22,7 @@
     },
     "dependencies": {
         "@data-ui/sparkline": "0.0.84",
-        "antd": "^3.26.17",
+        "antd": "^5.0.0",
         "aos": "^2.3.4",
         "automatic-changelog": "^1.0.5",
         "chart.js": "^2.9.3",
