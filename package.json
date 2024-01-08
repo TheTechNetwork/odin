@@ -21,7 +21,7 @@
         "sass-loader": "^7.3.1"
     },
     "dependencies": {
-        "@data-ui/sparkline": "0.0.80",
+        "@data-ui/sparkline": "0.0.84",
         "antd": "^3.26.17",
         "aos": "^2.3.4",
         "automatic-changelog": "^1.0.5",
